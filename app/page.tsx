@@ -1,3 +1,9 @@
+import SignIn from '@/components/SignIn';
+
 export default function Home() {
-  return <h1>page.tsx de la carpeta app</h1>;
+  return (
+    <div>
+      <h1>Home Page</h1>
+    </div>
+  );
 }
